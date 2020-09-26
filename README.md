@@ -1,4 +1,3 @@
-![Build Status](https://github.com/codesidian/Python-MissionChiefBot/workflows/Mission%20Chief%20Tests/badge.svg)
 # The Mission-Chief-AutoBot
 
 A bot written to automate the grinding and boring jobs of the bot, simply follow the guide and let it run. No fee to pay, no license required. 
