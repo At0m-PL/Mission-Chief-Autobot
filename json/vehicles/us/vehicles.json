@@ -1,0 +1,63 @@
+{
+	"firetrucks": [
+	"Type 1 fire engine",
+	"Type 2 fire engine",
+	"Quint",
+	"Rescue Engine",
+	"Pumper Tanker"
+],
+	"battalion chief vehicles": [
+	"Battalion chief unit"
+],
+	"mobile command vehicles": [
+	"mcv"
+],
+	"platform truck": [
+	"Platform truck",
+	"Quint"
+],
+	"heavy rescue vehicles": [
+	"Heavy rescue vehicle"
+],
+	"water tankers": [
+	"Pumper Tanker",
+	"Water Tanker"
+],
+	"mobile air vehicles": [
+	"Mobile air"
+],
+	"hazmat vehicles": [
+	"HazMat"
+],
+	"police cars": [
+	"Patrol car"
+],
+	"k-9 units": [
+	"K-9 Unit"
+],
+	"max. patients": [
+	"ambulance",
+	"als ambulance"
+],
+	"ambulance": [
+	"ambulance",
+	"als ambulance"
+],
+	 "arff" : [
+	"ARFF Crash Tender"
+],
+	"boats" : [
+	"Heavy Rescue + Boat",
+	"Boat Trailer"
+],
+	"swat personnel": [
+	"SWAT SUV"
+],
+"wildland fire engines": [
+	"Type 3 engine",
+	"Type 5 engine",
+	"Type 7 engine",
+	"Pumper Tanker",
+	"Crew Carrier"
+]
+}
