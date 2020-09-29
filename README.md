@@ -10,7 +10,7 @@ A bot written to automate the grinding and boring jobs of the bot, simply follow
 - Practically undetectable, using only user avaiable buttons and pages- no API calls all using the browser.
 - Hide the browser from opening - set `headless_mode` to `true` in your config.ini.
 - Send only a batch of missions at a time - set `mission_batch_amount` to the amount required in your config.ini.
-- Super fast, the bot caches any vehciles and mission it comes across.
+- Super fast, the bot caches any vehicles and mission it comes across.
 - Multiple domains supported, .co.uk, .com, .ru.
 - Multiple accounts at one time, just create another bot in another folder and off you go.
 - Debug logging built in.
